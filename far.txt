@@ -1,0 +1,52 @@
+f1 score for CN for  86664 is 0
+f1 score for Degree for 86664 is 0
+f1 score for Diversity for 86664 is 0
+f1 score for Eigen for 86664 is 0
+f1 score for Jaccard for 86664 is 0
+f1 score for PR for 86664 is 0
+
+f1 score for CN for  75404 is 0
+f1 score for Degree for 75404 is 0
+f1 score for Diversity for 75404 is 0
+f1 score for Eigen for 75404 is 0
+f1 score for Jaccard for 75404 is 0
+f1 score for PR for 75404 is 0
+new node coming
+
+
+
+f1 score for CN for  88957 is 0
+f1 score for Degree for 88957 is 0
+f1 score for Diversity for 88957 is 0
+f1 score for Eigen for 88957 is 0
+f1 score for Jaccard for 88957 is 0
+f1 score for PR for 88957 is 0
+new node coming
+
+
+
+f1 score for CN for  55382 is 0
+f1 score for Degree for 55382 is 0
+f1 score for Diversity for 55382 is 0
+f1 score for Eigen for 55382 is 0
+f1 score for Jaccard for 55382 is 0
+f1 score for PR for 55382 is 0
+new node coming
+
+
+f1 score for CN for  32109 is 0
+f1 score for Degree for 32109 is 1
+f1 score for Diversity for 32109 is 0
+f1 score for Eigen for 32109 is 0
+f1 score for Jaccard for 32109 is 0
+f1 score for PR for 32109 is 1
+new node coming
+
+
+f1 score for CN for  7224 is 0
+f1 score for Degree for 7224 is 0
+f1 score for Diversity for 7224 is 0
+f1 score for Eigen for 7224 is 0
+f1 score for Jaccard for 7224 is 0
+f1 score for PR for 7224 is 0
+new node coming

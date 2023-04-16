@@ -1,0 +1,7 @@
+f1 score for CN for  7224 is 0
+f1 score for Degree for 7224 is 0
+f1 score for Diversity for 7224 is 0
+f1 score for Eigen for 7224 is 0
+f1 score for Jaccard for 7224 is 0
+f1 score for PR for 7224 is 0
+new node coming
